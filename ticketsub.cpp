@@ -28,7 +28,7 @@ int main() {
 				}
 			}
 		}
-	cout<<(f==0?"YES":"NO")<<endl;
+	cout<<(f==0?"YES" : "NO")<<endl;
 	}
 	return 0;
 }
