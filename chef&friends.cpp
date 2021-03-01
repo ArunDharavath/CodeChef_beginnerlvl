@@ -24,9 +24,7 @@ int main() {
 	                count = 0;
 	        }
 	        if(count > 0)
-	        {
 	            break;
-	        }
 	    }
 	    if(count > 0)
 	        ++res;
