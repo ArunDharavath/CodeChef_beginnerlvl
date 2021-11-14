@@ -1,7 +1,7 @@
 # CodeChef_beginnerlvl
 Welcome to my repository!
 
-This repository has been dedicated to SOLUTIONS to the CODECHEF beginner level questions that I have solved.
+This repository has been dedicated to _SOLUTIONS_ to the ***CODECHEF BEGINNER*** level questions that I have solved.
 
 I have used C++ for solving the questions. The solutions can be searched by using ctrl+F and entering the problem title in CodeChef.
 
